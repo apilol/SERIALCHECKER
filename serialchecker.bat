@@ -36,5 +36,4 @@ echo [92m         MAC
 echo [90m==========================[97m
 getmac
 echo [90m==============================================================================[97m
-echo [94mMake sure all serials are changed (Including macs)
 pause>nul
